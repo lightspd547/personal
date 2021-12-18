@@ -1,3 +1,4 @@
+#lsun 12/18 test
 lineAmount = 5
 space = int(lineAmount / 2)
 stars = 1
